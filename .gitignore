@@ -1,0 +1,8 @@
+# local scratch: decrypted JSON, build tooling, baseline saves
+work/
+
+# reference saves downloaded from Nexus, kept locally for comparison
+100 Percent Savefile*/
+100 Percent Savefile*.7z
+Proper NGPlus*/
+Proper NGPlus*.rar
